@@ -37,7 +37,7 @@ window.location="virement.html"
 const alert1=()=>{
 swal({
   title: "effectué",
-  text: "virement efffectué",
+  text: "virement effectué",
   icon: "success",
   dangerMode: true,
 })}
